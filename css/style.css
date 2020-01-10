@@ -1,0 +1,13 @@
+body{
+    background-image:url("../images/nba.jpg")
+}
+
+#quiz{
+    margin:auto;
+    width:60%;
+}
+
+.question{
+    margin-bottom:20px;
+    margin-top:10px;
+}
