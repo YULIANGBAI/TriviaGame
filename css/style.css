@@ -1,5 +1,5 @@
 body{
-    background-image:url("../images/nba.jpg")
+    background-image:url("../images/nba3.jpg")
 }
 
 #quiz{
@@ -9,5 +9,17 @@ body{
 
 .question{
     margin-bottom:20px;
-    margin-top:10px;
+    margin-top:100px;
+}
+
+.timerResults{
+    padding-top:20px;
+    color:red;
+    margin-top:20px;
+}
+
+.results{
+    padding-top:20px;
+    color:red;
+    margin-top:20px;
 }
