@@ -64,6 +64,7 @@ var quizQuestions=[
     }
 ];
 
+  
 function setup(){
 
     for (var i = 0 ; i<quizQuestions.length; i++) {

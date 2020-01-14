@@ -12,14 +12,23 @@ body{
     margin-top:100px;
 }
 
-.timerResults{
-    padding-top:20px;
-    color:red;
+#timerResults{
+    margin-left:20px;
+    color:blue;
     margin-top:20px;
+    font-size:20px;
 }
 
-.results{
-    padding-top:20px;
-    color:red;
+#results{
+    margin-left:20px;
+    color:blue;
+    margin-top:20px;
+    font-size:20px;
+}
+
+#de{
+    color:blue;
+    font-size:20px;
+    margin-left:20px;
     margin-top:20px;
 }
